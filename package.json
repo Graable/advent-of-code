@@ -1,0 +1,25 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "## Pushing code To push your code to GitHub, follow these instructions:",
+  "main": "day1/part1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Graable/advent-of-code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Graable/advent-of-code/issues"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  },
+  "dependencies": {
+    "@types/node": "^16.11.11"
+  },
+  "homepage": "https://github.com/Graable/advent-of-code#readme"
+}

@@ -19,13 +19,13 @@ git push
 ## Running code
 To run the code, navigate to the folder and run with the command:
 
-1. Navigate to the day of choosing
-e.g.
+
+1. Transpile
 ```
-cd day1
+tsc -p tsconfig.json
 ```
-nod
-2. Transpile and run (replace with part1.ts/2)
+
+2. Run
 ```
-node part1.ts
+node day1/part1.js 
 ```
