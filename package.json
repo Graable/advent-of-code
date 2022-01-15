@@ -2,7 +2,7 @@
   "name": "advent-of-code",
   "version": "1.0.0",
   "description": "## Pushing code To push your code to GitHub, follow these instructions:",
-  "main": "day1/part2.js",
+  "main": "day2/part2.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

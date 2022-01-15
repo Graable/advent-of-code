@@ -27,5 +27,5 @@ tsc -p tsconfig.json
 
 2. Run
 ```
-node day1/part2.js 
+node day2/part1.js 
 ```
